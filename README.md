@@ -14,7 +14,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzaro01&theme=buefy&hide=css,html)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=whatsapp-bot&theme=buefy)](https://github.com/mhankbarbar/whatsapp-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fauzaro01&repo=wa-termux-bot&theme=buefy)](https://github.com/Fauzaro01/wa-bot-termux)
 
 ![](https://github-profile-trophy.vercel.app/?username=Fauzaro01&row=2&column=3)
 
