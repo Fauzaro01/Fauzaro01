@@ -1,10 +1,10 @@
 ## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Fauzaro / Halo Nama Saya Fauzaro
 
-<img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyJLjdeFAIM5IzXkXwvz2R2n513cTtPr9qw&usqp=CAU"/>
+<img align="center" height="auto" src="https://images8.alphacoders.com/821/821013.png"/>
 
 ___
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game"  />
 
 ___
 
