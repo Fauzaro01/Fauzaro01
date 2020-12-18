@@ -1,17 +1,36 @@
-### Hi there 👋
+## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Fauzaro / Halo Nama Saya Fauzaro
 
-<!--
-**Fauzaro01/Fauzaro01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/images%20(15).jpeg"/>
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-gg
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+___
+
+![Fauzaro01 github stats](https://github-readme-stats.vercel.app/api?username=Fauzaro01&show_icons=true&theme=buefy&show_owner=true)
+
+___
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzaro01&theme=buefy&hide=css,html)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=whatsapp-bot&theme=buefy)](https://github.com/mhankbarbar/whatsapp-bot)
+
+![](https://github-profile-trophy.vercel.app/?username=Fauzaro01&row=2&column=3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
