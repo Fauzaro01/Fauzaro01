@@ -1,6 +1,6 @@
 ## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Fauzaro / Halo Nama Saya Fauzaro
 
-<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/images%20(15).jpeg"/>
+<img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyJLjdeFAIM5IzXkXwvz2R2n513cTtPr9qw&usqp=CAU"/>
 
 ___
 
