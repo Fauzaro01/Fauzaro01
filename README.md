@@ -4,7 +4,7 @@
 
 ___
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game"  />
+<img  height="400"  width="1000"   src="https://cdn.dribbble.com/users/648258/screenshots/9070602/media/20cef9101ef2a1f1617b6b020ec97157.gif"  />
 
 ___
 
