@@ -1,7 +1,10 @@
 <h1  align='center'> Hi there 👋 </h1>
-
-<p align='center'>  I'm Fauzaro! :sunglasses: </p>
-
+```javascript
+const name = 'Fauzaro01'
+if (!name = '') {
+  console.log("I'm ${name}, Nice to meet you all!"))
+ }
+```
  <p align='center'> </p>
 
 :page_with_curl: I'm currently learning:
@@ -9,12 +12,6 @@
 - PHP
 - Javascript
 
-```javascript
-const name = 'Fauzaro01'
-if (!name = '') {
-  console.log("I'm ${name}, Nice to meet you all!"))
- }
-```
 
 ### About Me ⚠️
 ___
