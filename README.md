@@ -12,7 +12,7 @@
 ```javascript
 const name = 'Fauzaro01'
 if (!name = '') {
-  console.log("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
+  console.log("I'm ${name}, Nice to meet you all!"))
  }
 ```
 
