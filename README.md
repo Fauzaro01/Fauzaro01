@@ -10,7 +10,7 @@ if (!name = '') {
 ```
 
 :page_with_curl: I'm currently learning:
-- Python
-- PHP
+- NodeJS
 - Javascript
+- PHP
 
