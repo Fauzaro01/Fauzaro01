@@ -14,8 +14,3 @@ if (!name = '') {
 - PHP
 - Javascript
 
-
-![### About Me ⚠]
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
