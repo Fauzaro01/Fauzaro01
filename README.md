@@ -1,5 +1,6 @@
 <h1  align='center'> Hi there 👋 </h1>
-___
+
+<p align='center'> </p>
 
 ```javascript
 const name = 'Fauzaro01'
@@ -7,8 +8,6 @@ if (!name = '') {
   console.log("I'm ${name}, Nice to meet you all!"))
  }
 ```
-
- <p align='center'> </p>
 
 :page_with_curl: I'm currently learning:
 - Python
