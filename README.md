@@ -16,7 +16,6 @@ if (!name = '') {
 
 
 ### About Me ⚠️
-___
+<!--START_SECTION:waka-->
 
-![Fauzaro01 github stats](https://github-readme-stats.vercel.app/api?username=Fauzaro01&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzaro01&count_private=true&show_icons=true&theme=tokyonight)
+<!--END_SECTION:waka-->
