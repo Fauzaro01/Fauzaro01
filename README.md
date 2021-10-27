@@ -3,9 +3,6 @@
 <p align='center'> </p>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ```javascript
