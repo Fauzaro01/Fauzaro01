@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
+Week: 02 November, 2021 - 08 November, 2021
 
 EJS          3 hrs 57 mins   ████████████▓░░░░░░░░░░░░   51.12 % 
 JavaScript   2 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.82 % 
