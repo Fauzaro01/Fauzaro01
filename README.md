@@ -4,8 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2021 - 10 November, 2021
-
 EJS          4 hrs 3 mins    ████████████████░░░░░░░░░   64.47 % 
 JavaScript   1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.60 % 
 HTML         33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
