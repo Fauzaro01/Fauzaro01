@@ -18,6 +18,7 @@ CSS          5 mins          ▒░░░░░░░░░░░░░░░░
 const name = 'Fauzaro01'
 if (!name = '') {
   console.log("I'm ${name}, Nice to meet you all!"))
+  console.log("And Thanks See My Profile :)")
  }
 ```
 
