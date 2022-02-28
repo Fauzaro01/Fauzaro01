@@ -3,10 +3,11 @@
 <p align='center'> </p>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   13 mins         ██████████████████░░░░░░░   72.61 % 
-JSON         4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.64 % 
+Python   20 mins         █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ```javascript
