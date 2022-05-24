@@ -26,5 +26,5 @@ if (!name = '') {
 :page_with_curl: I'm currently learning:
 - NodeJS
 - Javascript
-- PHP
+- Java
 
