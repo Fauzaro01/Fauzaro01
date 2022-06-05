@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauzaro</h1>
-<h3 align="center">Student at SMP 2Kotabaru, West Java (Indonesia)</h3>
+<h3 align="center">Kamu akan kehilangan bulan, Jika kamu terlalu sibuk menghitung bintang</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzaro01&label=Profile%20views&color=0e75b6&style=flat" alt="fauzaro01" /> </p>
 
