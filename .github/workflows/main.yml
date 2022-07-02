@@ -19,5 +19,5 @@ jobs:
           SHOW_SHORT_INFO: True
           SHOW_COMMIT: True
           SHOW_LANGUAGE: True
-          COMMIT_BY_ME: True
+          COMMIT_BY_ME: False
           SHOW_UPDATED_DATE: True
