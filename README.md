@@ -52,7 +52,7 @@ VS Code                  15 mins             ██████░░░░░�
 
 - 🌱 I’m currently learning **Web Development and other programming languages**
 
-- 👯 I’m looking to collaborate on [synthesis-team](github.com/synthesis-team)
+- 👯 I’m looking to collaborate on [synthesis-team](https://github.com/Synthesis-Team)
 
 - 📫 How to reach me **desteria01@gmail.com**
 
