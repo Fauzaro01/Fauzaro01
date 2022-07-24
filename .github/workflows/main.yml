@@ -18,11 +18,12 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_LANGUAGE_PER_REPO: False
-          SHOW_TOTAL_CODE_TIME: False
+          SHOW_PROFILE_VIEWS: True
+          SHOW_TOTAL_CODE_TIME: True
           SHOW_LOC_CHART: False
           SHOW_TIMEZONE: False
-          SHOW_SHORT_INFO: True
+          SHOW_SHORT_INFO: False
           SHOW_COMMIT: True
-          SHOW_LANGUAGE: True
+          SHOW_LANGUAGE: False
           COMMIT_BY_ME: False
-          SHOW_UPDATED_DATE: True
+          SHOW_UPDATED_DATE: False
