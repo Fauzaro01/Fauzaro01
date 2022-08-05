@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm a Night 🦉** 
 
@@ -23,7 +23,7 @@
 
 ```text
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
