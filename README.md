@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm an Early 🐤** 
 
@@ -23,7 +23,7 @@
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
