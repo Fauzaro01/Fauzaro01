@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzaro01&label=Profile%20views&color=0e75b6&style=flat" alt="fauzaro01" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -23,8 +23,8 @@
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       ███████████████████░░░░░░   76.02% 
-IntelliJ                 46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98%
+VS Code                  1 hr 39 mins        █████████████████░░░░░░░░   68.29% 
+IntelliJ                 46 mins             ████████░░░░░░░░░░░░░░░░░   31.71%
 
 ```
 
