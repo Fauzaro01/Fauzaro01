@@ -4,9 +4,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzaro01&label=Profile%20views&color=0e75b6&style=flat" alt="fauzaro01" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
+🌆 Daytime    63 commits     ██████████░░░░░░░░░░░░░░░   40.13% 
+🌃 Evening    72 commits     ███████████░░░░░░░░░░░░░░   45.86% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
+
+```
 
 
 <!--END_SECTION:waka-->
