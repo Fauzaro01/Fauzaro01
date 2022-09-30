@@ -18,7 +18,7 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_LANGUAGE_PER_REPO: False
-          SHOW_PROFILE_VIEWS: True
+          SHOW_PROFILE_VIEWS: False
           SHOW_TOTAL_CODE_TIME: True
           SHOW_LOC_CHART: False
           SHOW_TIMEZONE: False
