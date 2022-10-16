@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fauzaro</h1>
 <h3 align="center">Kamu akan kehilangan bulan, Jika kamu terlalu sibuk menghitung bintang</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzaro01&label=Profile%20views&color=0e75b6&style=flat" alt="fauzaro01" /></p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2048%20mins-blue)
 
