@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzaro01&label=Profile%20views&color=0e75b6&style=flat" alt="fauzaro01" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
