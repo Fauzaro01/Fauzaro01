@@ -4,11 +4,14 @@ Hi, I'm Fauzaro01
   <img src="https://gpvc.arturio.dev/fauzaro01" alt="Profile views" align='right'/> <a href="https://github.com/fauzaro01/fauzaro01/"> 
   </a> 
 <br/>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Github%3A%20%40Fauzaro01;Full+Stack+Web+Developer;Student;Gamer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
+
 <img align="left" src="/assets/icon.png" alt="Zeen" width="320" height="320" />
 <hr>
+
 ```
 fauzaro01@github
 -------------------------
@@ -20,6 +23,7 @@ fauzaro01@github
 🚩 Interested in Full Stack Web Development
 🎵 Love lofi and soft music
 ```
+
 <hr>
 
 ## 🛠️ My Favorite Tools
