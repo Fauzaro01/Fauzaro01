@@ -4,14 +4,11 @@ Hi, I'm Fauzaro01
   <img src="https://gpvc.arturio.dev/fauzaro01" alt="Profile views" align='right'/> <a href="https://github.com/fauzaro01/fauzaro01/"> 
   </a> 
 <br/>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Github%3A%20%40Fauzaro01;Full+Stack+Web+Developer;Student;Gamer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
 <img align="left" src="/assets/icon.png" alt="Zeen" width="320" height="320" />
 <hr>
-
 ```
 fauzaro01@github
 -------------------------
@@ -23,7 +20,6 @@ fauzaro01@github
 🚩 Interested in Full Stack Web Development
 🎵 Love lofi and soft music
 ```
-
 <hr>
 
 ## 🛠️ My Favorite Tools
@@ -130,20 +126,3 @@ VS Code                  5 hrs 14 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
-
-- 🌱 I’m currently learning **Web Development and other programming languages**
-
-- 👯 I’m looking to collaborate on [synthesis-team](https://github.com/Synthesis-Team)
-
-- 📫 How to reach me **desteria01@gmail.com**
-
-- ⚡ Fun fact **I like play valorant**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzaro01&show_icons=true&locale=en&layout=compact" alt="fauzaro01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzaro01&show_icons=true&locale=en" alt="fauzaro01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzaro01&" alt="fauzaro01" /></p>
