@@ -125,7 +125,7 @@ Credit github profile : [baysatriow](https://github.com/baysatriow)
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
