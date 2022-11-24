@@ -6,7 +6,7 @@ Hi, I'm Fauzaro01
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Github%3A%20%40Fauzaro01;Full+Stack+Web+Developer;Student;Gamer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Zets;Full+Stack+Web+Developer;Student;Gamer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="/assets/icon.png" alt="Zeen" width="320" height="320" />
