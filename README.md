@@ -108,7 +108,7 @@ If you have any questions about backend-end web development, feel free to <a hre
 Credit github profile : [baysatriow](https://github.com/baysatriow)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2055%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -125,9 +125,9 @@ Credit github profile : [baysatriow](https://github.com/baysatriow)
 
 ```text
 🔥 Editors: 
-IntelliJ                 5 hrs 56 mins       █████████████░░░░░░░░░░░░   51.69% 
-VS Code                  4 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   38.12% 
-Android Studio           1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
+IntelliJ                 7 hrs 28 mins       █████████████████░░░░░░░░   71.17% 
+VS Code                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Android Studio           1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
 
 ```
 
