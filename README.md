@@ -105,7 +105,6 @@ If you have any questions about backend-end web development, feel free to <a hre
 
 ---
 
-Credit github profile : [baysatriow](https://github.com/baysatriow)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%206%20mins-blue)
