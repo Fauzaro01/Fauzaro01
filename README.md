@@ -107,7 +107,7 @@ If you have any questions about backend-end web development, feel free to <a hre
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -124,8 +124,8 @@ If you have any questions about backend-end web development, feel free to <a hre
 
 ```text
 🔥 Editors: 
-IntelliJ                 6 hrs 9 mins        █████████████████░░░░░░░░   70.89 % 
-VS Code                  2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+IntelliJ                 6 hrs 17 mins       ███████████████░░░░░░░░░░   62.77 % 
+VS Code                  3 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
 
 ```
 
