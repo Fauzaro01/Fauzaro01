@@ -123,7 +123,7 @@ If you have any questions about backend-end web development, feel free to <a hre
 
 ```text
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 ```
 
 
