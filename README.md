@@ -109,7 +109,7 @@ If you have any questions about backend-end web development, feel free to <a hre
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 September 2021 - To: 13 March 2023
+From: 10 September 2021 - To: 14 March 2023
 
 Total Time: 266 hrs 51 mins
 
