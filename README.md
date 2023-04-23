@@ -109,12 +109,12 @@ If you have any questions about backend-end web development, feel free to <a hre
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 September 2021 - To: 20 April 2023
+From: 10 September 2021 - To: 21 April 2023
 
-Total Time: 290 hrs 18 mins
+Total Time: 290 hrs 20 mins
 
-JavaScript          126 hrs 21 mins ███████████░░░░░░░░░░░░░░   43.53 %
-Java                38 hrs 43 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+JavaScript          126 hrs 21 mins ███████████░░░░░░░░░░░░░░   43.52 %
+Java                38 hrs 45 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
 EJS                 38 hrs 15 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
 JSON                22 hrs 47 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 CSS                 16 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
