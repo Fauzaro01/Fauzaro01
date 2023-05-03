@@ -109,20 +109,20 @@ If you have any questions about backend-end web development, feel free to <a hre
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 September 2021 - To: 30 April 2023
+From: 10 September 2021 - To: 01 May 2023
 
-Total Time: 294 hrs 47 mins
+Total Time: 296 hrs 43 mins
 
-JavaScript          127 hrs 23 mins ██████████▓░░░░░░░░░░░░░░   43.21 %
-Java                39 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-EJS                 38 hrs 18 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-JSON                24 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-CSS                 16 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-HTML                12 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Python              11 hrs 8 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-XML                 4 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Markdown            3 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other               3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JavaScript          128 hrs 10 mins ██████████▓░░░░░░░░░░░░░░   43.20 %
+Java                39 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+EJS                 38 hrs 48 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+JSON                24 hrs 43 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+CSS                 16 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+HTML                12 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Python              11 hrs 17 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+XML                 4 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Markdown            3 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Other               3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
