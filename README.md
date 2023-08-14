@@ -1,12 +1,10 @@
 <h1 align="center">
 Hi, I'm Fauzaro01
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  <img src="https://gpvc.arturio.dev/fauzaro01" alt="Profile views" align='right'/> <a href="https://github.com/fauzaro01/fauzaro01/"> 
-  </a> 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Zets;Full+Stack+Web+Developer;Student;Gamer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=zZz;Full+Stack+Web+Developer;Student;Software%20Develover;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="/assets/icon2.png" alt="Zeen" width="320" height="320" />
@@ -15,12 +13,12 @@ Hi, I'm Fauzaro01
 ```
 fauzaro01@github
 -------------------------
-💻 I am a self taught Full Stack Developer
-📚 I am a junior high school student from SMPN 2 Kotabaru
+💻 I am a self taught Software Developer
+📚 I am a Vocational High School Student from SMK TI 1 Muhamadiyah Cikampek
 📝 I have a strong interest in Programming languages and Artificial Intelligence
-🌱 Learning about Computer and Machine Learning stuff
+🌱 Learning about Web Application and Machine Learning stuff
 🌟 Main languages: Html & CSS, Javascript
-🚩 Interested in Full Stack Web Development
+🚩 Interested in Web Development & Machine Learning
 🎵 Love lofi and soft music
 ```
 
@@ -75,7 +73,6 @@ fauzaro01@github
 
 |                                                            Fauzaro01 Stats                                                            |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Fauzaro01 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Fauzaro01&theme=react-dark&hide_border=true&area=true) |
 |        ![Fauzaro01 github stats](https://github-readme-stats.vercel.app/api?username=Fauzaro01&show_icons=true&theme=algolia)        |
 |              ![Fauzaro01 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fauzaro01&theme=algolia)              |
 
