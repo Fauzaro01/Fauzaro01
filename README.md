@@ -22,6 +22,10 @@ fauzaro01@github
 🎵 Love lofi and soft music
 ```
 
+<hr>
+<br>
+<br>
+<div align="left">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -42,9 +46,7 @@ Other               3 hrs 19 mins   ▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<hr>
-
+</div>
 
 # GitHub Stats
 
