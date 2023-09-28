@@ -29,7 +29,7 @@ fauzaro01@github
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2021 - To: 25 September 2023
+From: 10 September 2021 - To: 26 September 2023
 
 Total Time: 328 hrs 37 mins
 
