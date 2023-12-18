@@ -29,20 +29,20 @@ fauzaro01@github
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2021 - To: 15 December 2023
+From: 10 September 2021 - To: 16 December 2023
 
-Total Time: 429 hrs 33 mins
+Total Time: 432 hrs 41 mins
 
-JavaScript          147 hrs 40 mins ████████▓░░░░░░░░░░░░░░░░   34.38 %
-PHP                 65 hrs 41 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-EJS                 45 hrs 30 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Java                41 hrs 45 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-JSON                26 hrs 43 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Blade Template      21 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-CSS                 20 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-HTML                16 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Python              12 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-XML                 4 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JavaScript          147 hrs 40 mins ████████▓░░░░░░░░░░░░░░░░   34.13 %
+PHP                 67 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+EJS                 45 hrs 30 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Java                41 hrs 45 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+JSON                26 hrs 43 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Blade Template      22 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+CSS                 20 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+HTML                16 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Python              12 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+XML                 4 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
