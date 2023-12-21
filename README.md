@@ -4,22 +4,23 @@ Hi, I'm Fauzaro01
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=zZz;Full+Stack+Web+Developer;Student;Software%20Develover;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Chill%20and%20Coding;Full+Stack+Web+Developer;Student;Software%20Develover;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="/assets/icon2.png" alt="Zeen" width="320" height="320" />
+<img align="left" src="https://media.tenor.com/LNrMsLTFICEAAAAi/elysia.gif" alt="Zeen" width="320" height="320" />
 <hr>
 
 ```
 fauzaro01@github
 -------------------------
 💻 I am a self taught Software Developer
-📚 I am a Vocational High School Student from SMK TI 1 Muhamadiyah Cikampek
+📚 I am a Vocational High School Student from SMK TI 1 Muhammadiyah Cikampek
 📝 I have a strong interest in Programming languages and Artificial Intelligence
 🌱 Learning about Web Application and Machine Learning stuff
-🌟 Main languages: Html & CSS, Javascript
+🌟 Main languages: Javascript, PHP, Python
 🚩 Interested in Web Development & Machine Learning
-🎵 Love lofi and soft music
+🎵 Love lofi and soft music 
 ```
 
 <hr>
