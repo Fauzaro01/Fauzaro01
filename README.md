@@ -5,10 +5,11 @@ Hi, I'm Fauzaro01
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Chill%20and%20Coding;Full+Stack+Web+Developer;Student;Software%20Develover;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Chill%20and%20Coding;Full+Stack+Web+Developer;Student;Software%20Develover;Always%20learning%20new%20things&center=true&width=380&height=45">
+  </a>
 </p>
 
-<img align="left" src="https://media.tenor.com/pNQi8B0fo1UAAAAi/gura-dance.gif" alt="Zeen" width="320" height="320" />
+<img align="left" src="https://media.tenor.com/pNQi8B0fo1UAAAAi/gura-dance.gif" alt="Zeen" width="300" height="300" />
 <hr>
 
 ```
@@ -24,6 +25,8 @@ fauzaro01@github
 ```
 
 <hr>
+
+![Github View](https://komarev.com/ghpvc/?username=fauzaro01&style=flat-square)
 <br><br>
 <details>
   <summary>
