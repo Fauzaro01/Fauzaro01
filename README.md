@@ -36,12 +36,12 @@ fauzaro01@github
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2021 - To: 22 October 2024
+From: 10 September 2021 - To: 24 October 2024
 
-Total Time: 614 hrs 57 mins
+Total Time: 615 hrs 14 mins
 
-JavaScript          189 hrs 36 mins ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-PHP                 112 hrs 51 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+JavaScript          189 hrs 36 mins ███████▓░░░░░░░░░░░░░░░░░   30.82 %
+PHP                 113 hrs 8 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
 EJS                 56 hrs 49 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
 HTML                51 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
 Blade Template      51 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
