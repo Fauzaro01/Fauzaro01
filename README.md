@@ -9,7 +9,6 @@ Hi, I'm Fauzaro01
   </a>
 </p>
 
-<img align="left" src="https://media.tenor.com/pNQi8B0fo1UAAAAi/gura-dance.gif" alt="Zeen" width="300" height="300" />
 <hr>
 
 ```
