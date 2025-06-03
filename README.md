@@ -1,37 +1,38 @@
-<h1 align="center">
-Hi, I'm Fauzaro01
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+<h1 align="center">Hi there, I'm Fauzaro01 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Chill%20and%20Coding;Full+Stack+Web+Developer;Student;Software%20Develover;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Full+Stack+Web+Developer;Self-Taught+Programmer;Always+Learning+New+Things;Love+to+Build+Cool+Stuff+😎" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fauzaro01">
+    <img src="https://komarev.com/ghpvc/?username=Fauzaro01&label=Profile+views&color=blue&style=flat" alt="Fauzaro01" />
   </a>
 </p>
 
-<hr>
+### 👨‍💻 About Me
 
-```
-fauzaro01@github
--------------------------
-💻 I am a self taught Software Developer
-📚 I am a Vocational High School Student from SMK TI 1 Muhammadiyah Cikampek
-📝 I have a strong interest in Programming languages and AI
-🌱 Learning about Web Application and Machine Learning stuff
-🌟 Main languages: Javascript, PHP, Python
-🚩 Interested in Web Development & Machine Learning
-🎵 Love lofi and soft music 
+```txt
+💻 I'm a Software Developer
+🏫 Vocational High School Student at SMK TI Muhammadiyah 1 Cikampek
+💡 Passionate about Web Development and Artificial Intelligence
+🌱 Currently learning: Prisma, Next.js, and Machine Learning basics
+🛠️ Tech Stack: NextJS | Laravel | React | Node.js | MySQL | MongoDB | PrismaJS
+🎵 Lofi + Coding = Perfect combo 🎧
 ```
 
-<hr>
 
-![Github View](https://komarev.com/ghpvc/?username=fauzaro01&style=flat-square)
-<br><br>
+### 🌐 Check Out My Portfolio
+
+> 📎 *Explore my latest projects, skills, and achievements at [fauzaro01.web.app](https://fauzaro01.web.app)*
+
+
 <details>
   <summary>
      WakaTime Stats
   </summary>
   <br>
+  
   <!--START_SECTION:waka-->
 
 ```txt
