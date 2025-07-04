@@ -36,15 +36,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2021 - To: 01 July 2025
+From: 10 September 2021 - To: 02 July 2025
 
-Total Time: 910 hrs 4 mins
+Total Time: 910 hrs 26 mins
 
-JavaScript          296 hrs 32 mins ████████░░░░░░░░░░░░░░░░░   32.58 %
+JavaScript          296 hrs 52 mins ████████░░░░░░░░░░░░░░░░░   32.61 %
 PHP                 178 hrs 35 mins █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-HTML                106 hrs 16 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Blade Template      85 hrs 52 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-EJS                 58 hrs 31 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+HTML                106 hrs 16 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Blade Template      85 hrs 52 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+EJS                 58 hrs 32 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 Java                41 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 CSS                 36 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 JSON                33 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
