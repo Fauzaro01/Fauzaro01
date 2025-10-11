@@ -36,11 +36,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2021 - To: 09 October 2025
+From: 10 September 2021 - To: 10 October 2025
 
-Total Time: 985 hrs 1 min
+Total Time: 985 hrs 2 mins
 
-JavaScript          318 hrs 33 mins ████████░░░░░░░░░░░░░░░░░   32.34 %
+JavaScript          318 hrs 34 mins ████████░░░░░░░░░░░░░░░░░   32.34 %
 PHP                 181 hrs 53 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
 HTML                109 hrs 33 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 Blade Template      86 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
