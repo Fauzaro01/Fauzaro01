@@ -24,7 +24,7 @@
 
 ### 🌐 Check Out My Portfolio
 
-> 📎 *Explore my latest projects, skills, and achievements at [fauzaro01.web.app](https://fauzaro01.web.app)*
+> 📎 *Explore my latest projects, skills, and achievements at [fauzaro.web.id](https://fauzaro.web.id)*
 
 
 <details>
