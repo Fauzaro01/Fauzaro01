@@ -36,14 +36,14 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2021 - To: 15 April 2026
+From: 10 September 2021 - To: 16 April 2026
 
-Total Time: 1,232 hrs 1 min
+Total Time: 1,232 hrs 30 mins
 
-JavaScript          371 hrs 47 mins       ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-PHP                 194 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+JavaScript          371 hrs 47 mins       ███████▓░░░░░░░░░░░░░░░░░   30.17 %
+PHP                 194 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
 HTML                113 hrs 27 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Blade Template      94 hrs 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Blade Template      94 hrs 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 EJS                 92 hrs 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 TypeScript          78 hrs 31 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 JSON                50 hrs 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
