@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Fauzaro01">
-    <img src="https://komarev.com/ghpvc/?username=Fauzaro01&label=Profile+views&color=blue&style=flat" alt="Fauzaro01" />
+    <img src="https://fauzaro.web.id/api/badge/profile-views" alt="Fauzaro01" />
   </a>
 </p>
 
@@ -60,12 +60,6 @@ Bash                22 hrs 11 mins        ▒░░░░░░░░░░░�
   </summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fauzaro01&show_icons=true&theme=algolia" alt="Fauzaro01's GitHub Stats" style="margin: 20px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fauzaro01&theme=algolia" alt="Fauzaro01's GitHub Streak" style="margin: 20px;" />
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fauzaro01&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="Fauzaro01's Stars" style="margin: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzaro01&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" style="margin: 20px;" />
   </div>
 </details>
