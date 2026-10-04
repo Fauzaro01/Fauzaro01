@@ -36,20 +36,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2021 - To: 01 October 2026
+From: 10 September 2021 - To: 03 October 2026
 
-Total Time: 1,439 hrs 26 mins
+Total Time: 1,448 hrs 11 mins
 
-JavaScript          402 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.98 %
-PHP                 243 hrs 55 mins       ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Blade Template      119 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-HTML                113 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-TypeScript          105 hrs 5 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-EJS                 93 hrs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-JSON                59 hrs 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Java                46 hrs 49 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-CSS                 43 hrs 5 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Markdown            33 hrs 5 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+JavaScript          403 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.83 %
+PHP                 248 hrs 28 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Blade Template      120 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+HTML                113 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+TypeScript          105 hrs 5 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+EJS                 93 hrs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+JSON                59 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Java                46 hrs 49 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+CSS                 43 hrs 6 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Markdown            33 hrs 46 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
